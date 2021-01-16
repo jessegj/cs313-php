@@ -7,5 +7,7 @@
 			"path": "..\\..\\cse340"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "cs313-php"
+	}
 }
