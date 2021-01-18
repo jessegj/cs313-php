@@ -16,8 +16,8 @@
 
     <nav>
         <div class="navbar">
-            <a href="index.html">Home</a>
-            <a href="assignments.html">Assignments</a>
+            <a href="index.php">Home</a>
+            <a href="assignments.php">Assignments</a>
         </div>
     </nav>
 
