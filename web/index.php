@@ -10,9 +10,9 @@
 </head>
 <body>
 
-    <!-- <header>
+    <header>
         <h1>CSE 341</h1>
-    </header> -->
+    </header>
 
     <nav>
         <div class="navbar">
@@ -32,8 +32,8 @@
     
     <hr>
     
-    <!--<footer>Created by Jesse Jensen CSE341 BYU-Idaho</footer>-->
-    <? php //include 'homepage.php';?>
+    <footer>Created by Jesse Jensen CSE341 BYU-Idaho</footer>
+    <?php include 'homepage.php';?>
     <script src="homepage.js"></script>
 </body>
 </html>
